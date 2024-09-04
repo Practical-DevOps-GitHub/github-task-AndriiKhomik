@@ -7,4 +7,3 @@ Add pull_request_template.md, add CODEOWNERS
 - [x] If it is a core feature, I have added thorough tests
 - [x] Do we need to implement analytics?
 - [x] Will this be part of a product update? If yes, please write one phrase about this update
-
